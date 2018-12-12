@@ -7,10 +7,10 @@
         {
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion": "2015-06-15",
-            "name": "StorageAccount1benwhittaker",
+            "name": "StorageAccount1bw",
             "location": "[resourceGroup().location]",
             "tags": {
-                "displayName": "StorageAccount1benwhittaker"
+                "displayName": "StorageAccount1bw"
             },
             "properties": {
                 "accountType": "Standard_LRS"
